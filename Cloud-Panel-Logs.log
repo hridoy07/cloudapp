@@ -1,0 +1,18 @@
+12:13:27.139 [Test worker] INFO  c.m.c.CloudappApplicationTests - Starting CloudappApplicationTests using Java 17.0.5 on PAN-ECRI-103 with PID 1692 (started by hbhuyan in C:\Users\hbhuyan\Desktop\cloudapp)
+12:13:27.140 [Test worker] DEBUG c.m.c.CloudappApplicationTests - Running with Spring Boot v2.7.7-SNAPSHOT, Spring v5.3.24
+12:13:27.140 [Test worker] INFO  c.m.c.CloudappApplicationTests - No active profile set, falling back to 1 default profile: "default"
+12:13:27.959 [Test worker] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+12:13:28.457 [Test worker] INFO  c.m.c.CloudappApplicationTests - Started CloudappApplicationTests in 1.593 seconds (JVM running for 2.446)
+12:13:39.914 [main] INFO  c.m.cloudapp.CloudappApplication - Starting CloudappApplication using Java 17.0.5 on PAN-ECRI-103 with PID 18552 (C:\Users\hbhuyan\Desktop\cloudapp\build\libs\cloudapp-0.0.1-SNAPSHOT.jar started by hbhuyan in C:\Users\hbhuyan\Desktop\cloudapp)
+12:13:39.916 [main] DEBUG c.m.cloudapp.CloudappApplication - Running with Spring Boot v2.7.7-SNAPSHOT, Spring v5.3.24
+12:13:39.917 [main] INFO  c.m.cloudapp.CloudappApplication - No active profile set, falling back to 1 default profile: "default"
+12:13:40.632 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+12:13:40.639 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+12:13:40.639 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+12:13:40.639 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.69]
+12:13:40.696 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+12:13:40.696 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 744 ms
+12:13:40.913 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+12:13:41.248 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+12:13:41.270 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+12:13:41.278 [main] INFO  c.m.cloudapp.CloudappApplication - Started CloudappApplication in 1.801 seconds (JVM running for 2.106)

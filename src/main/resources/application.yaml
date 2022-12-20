@@ -1,2 +1,9 @@
 server:
     port: 80
+app: 
+ logging-to:console
+
+logging:
+  level:
+    '[org.springframework]': INFO
+    '[com.med4pan.cloudapp]': DEBUG 
